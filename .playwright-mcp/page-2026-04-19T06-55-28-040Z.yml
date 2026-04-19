@@ -1,0 +1,162 @@
+- generic [ref=e3]:
+  - navigation [ref=e4]:
+    - generic [ref=e5]:
+      - link "MOSSAIC" [ref=e6] [cursor=pointer]:
+        - /url: "#top"
+      - generic [ref=e7]:
+        - link "About" [ref=e8] [cursor=pointer]:
+          - /url: "#about"
+        - link "Partners" [ref=e9] [cursor=pointer]:
+          - /url: "#partners"
+        - link "Policy" [active] [ref=e10] [cursor=pointer]:
+          - /url: "#policy"
+        - button "Contact" [ref=e12]
+  - generic [ref=e13]:
+    - img "Misty Himalayan mountains at dawn" [ref=e15]
+    - generic [ref=e17]:
+      - paragraph [ref=e18]: Mountain Society for Sustainable Action in Integrated Climate Science
+      - heading "Working towards resilient, inclusive, and sustainable mountain futures." [level=1] [ref=e19]
+      - paragraph [ref=e20]: MOSSAIC integrates community-led initiatives with evidence-based policy to tackle critical challenges in the mountains.
+      - generic [ref=e21]:
+        - link "Our Impact" [ref=e22] [cursor=pointer]:
+          - /url: "#impact"
+        - link "Who We Are" [ref=e23] [cursor=pointer]:
+          - /url: "#about"
+  - generic [ref=e26]:
+    - generic [ref=e27]:
+      - paragraph [ref=e28]: Who We Are
+      - paragraph [ref=e29]: A policy-action-research startup founded by a team of young researchers, deeply rooted in the mountain landscapes they study.
+    - paragraph [ref=e31]: We work to strengthen local capacities, inform evidence-based policy, and foster sustainable, just, and resilient development across fragile mountain ecosystems.
+  - generic [ref=e33]:
+    - generic [ref=e34]:
+      - paragraph [ref=e35]: Overview
+      - heading "At a Glance" [level=2] [ref=e36]
+    - generic [ref=e37]:
+      - article [ref=e38]:
+        - generic [ref=e39]: "01"
+        - heading "Who We Are" [level=3] [ref=e40]
+        - paragraph [ref=e41]: A transdisciplinary team of scientists, researchers, and local practitioners dedicated to the Integrated Development of mountain regions. We believe the most effective solutions for the Himalayas are those co-developed with the people who call them home.
+      - article [ref=e42]:
+        - generic [ref=e43]: "02"
+        - heading "What We Do" [level=3] [ref=e44]
+        - paragraph [ref=e45]: We transform place-based research into actionable policy and resilient infrastructure. Our work focuses on the intersection of ecological health, water security, and disaster risk reduction.
+      - article [ref=e46]:
+        - generic [ref=e47]: "03"
+        - heading "Our Vision" [level=3] [ref=e48]
+        - paragraph [ref=e49]: A future where mountain regions are ecologically secure, socially inclusive, and economically resilient — supported by informed policies, empowered communities, and the sustainable use of land, water, energy, and indigenous knowledge systems.
+      - article [ref=e50]:
+        - generic [ref=e51]: "04"
+        - heading "Where We Work" [level=3] [ref=e52]
+        - paragraph [ref=e53]: We operate across the fragile landscapes of the Indian Himalayan Region, focusing on hotspots of vulnerability where environmental degradation and social migration intersect.
+  - generic [ref=e55]:
+    - generic [ref=e56]:
+      - paragraph [ref=e57]: Why It Matters
+      - heading "Strategic Pillars" [level=2] [ref=e58]
+    - generic [ref=e59]:
+      - article [ref=e60]:
+        - img [ref=e62]
+        - heading "Integrated Knowledge Hub" [level=3] [ref=e64]
+        - paragraph [ref=e65]: We don't just study mountains — we synthesise ecological, social, and economic data to support integrated development strategies that actually work.
+      - article [ref=e66]:
+        - img [ref=e68]
+        - heading "Community-Led Stewardship" [level=3] [ref=e71]
+        - paragraph [ref=e72]: Resilience is built from the ground up. We strengthen local institutions by valuing traditional knowledge systems alongside scientific data.
+      - article [ref=e73]:
+        - img [ref=e75]
+        - heading "Climate & Biodiversity Advocacy" [level=3] [ref=e77]
+        - paragraph [ref=e78]: We serve as a global voice for mountain regions, ensuring that critical issues — from glacier retreat to forest health — are placed at the heart of international climate policy.
+      - article [ref=e79]:
+        - img [ref=e81]
+        - heading "Evidence-Based Action" [level=3] [ref=e85]
+        - paragraph [ref=e86]: Every project we undertake is a living laboratory, providing the data needed to scale practical solutions across the entire Himalayan range.
+  - generic [ref=e88]:
+    - generic [ref=e89]:
+      - paragraph [ref=e90]: Focus
+      - heading "Impact Areas" [level=2] [ref=e91]
+    - generic [ref=e92]:
+      - article [ref=e93]:
+        - img [ref=e95]
+        - generic [ref=e98]:
+          - heading "Ecological Security" [level=3] [ref=e99]
+          - paragraph [ref=e100]: Protecting biodiversity and forest health across fragile mountain ecosystems.
+      - article [ref=e101]:
+        - img [ref=e103]
+        - generic [ref=e106]:
+          - heading "Water & Energy Resilience" [level=3] [ref=e107]
+          - paragraph [ref=e108]: Safeguarding glacial watersheds and sustainable energy access for highland communities.
+      - article [ref=e109]:
+        - img [ref=e111]
+        - generic [ref=e113]:
+          - heading "Disaster Risk Reduction" [level=3] [ref=e114]
+          - paragraph [ref=e115]: Building early warning systems and adaptive infrastructure in high-risk zones.
+      - article [ref=e116]:
+        - img [ref=e118]
+        - generic [ref=e120]:
+          - heading "Inclusive Governance" [level=3] [ref=e121]
+          - paragraph [ref=e122]: Centering marginalized voices in environmental policy and resource allocation.
+  - generic [ref=e124]:
+    - generic [ref=e125]:
+      - paragraph [ref=e126]: Influence & Impact
+      - heading "Policy & Governance" [level=2] [ref=e127]
+    - generic [ref=e128]:
+      - article [ref=e129]:
+        - img [ref=e131]
+        - heading "Advocacy Frameworks" [level=3] [ref=e133]
+        - paragraph [ref=e134]: Structured approaches to amplify mountain voices within national and international policy arenas — from COP negotiations to regional development plans.
+      - article [ref=e135]:
+        - img [ref=e137]
+        - heading "Policy Briefs" [level=3] [ref=e140]
+        - paragraph [ref=e141]: Concise, evidence-backed documents that translate complex mountain research into actionable guidance for decision-makers.
+      - article [ref=e142]:
+        - img [ref=e144]
+        - heading "Inclusive Governance" [level=3] [ref=e146]
+        - paragraph [ref=e147]: Models that embed local participation, gender equity, and indigenous knowledge into the governance of mountain landscapes and resources.
+  - generic [ref=e149]:
+    - generic [ref=e150]:
+      - paragraph [ref=e151]: People
+      - heading "Our Team" [level=2] [ref=e152]
+    - generic [ref=e153]:
+      - article [ref=e154]:
+        - paragraph [ref=e155]: Founders
+        - paragraph [ref=e156]: Leading MOSSAIC's vision and operations across the Himalayan region.
+        - generic [ref=e157]:
+          - generic [ref=e158]:
+            - img [ref=e160]
+            - paragraph [ref=e164]: Aditi Mishra
+          - generic [ref=e165]:
+            - img [ref=e167]
+            - paragraph [ref=e171]: Sachin Uniyal
+      - article [ref=e172]:
+        - paragraph [ref=e173]: Board
+        - paragraph [ref=e174]: Providing strategic governance and institutional oversight.
+        - generic [ref=e176]:
+          - img [ref=e178]
+          - paragraph [ref=e182]: Kanika
+      - article [ref=e183]:
+        - paragraph [ref=e184]: Scientific Advisory Committee
+        - paragraph [ref=e185]: Guiding research integrity and interdisciplinary collaboration.
+        - paragraph [ref=e186]: Coming soon
+  - generic [ref=e188]:
+    - generic [ref=e189]:
+      - paragraph [ref=e190]: Collaborate
+      - heading "Partner with Us" [level=2] [ref=e191]
+      - paragraph [ref=e192]: Lasting change in mountain regions demands collective action — across disciplines, borders, and sectors. We invite organisations that share our commitment to evidence-based, community-centred development.
+    - generic [ref=e193]:
+      - list [ref=e194]:
+        - listitem [ref=e195]:
+          - generic [ref=e197]: Research Institutions & Universities
+        - listitem [ref=e198]:
+          - generic [ref=e200]: Non-Governmental Organisations (NGOs)
+        - listitem [ref=e201]:
+          - generic [ref=e203]: Government & Public Agencies
+        - listitem [ref=e204]:
+          - generic [ref=e206]: Private Sector & Corporate Partners
+      - link "Start a Conversation" [ref=e207] [cursor=pointer]:
+        - /url: mailto:info@mossaicfoundation.org
+        - text: Start a Conversation
+        - img [ref=e208]
+  - contentinfo [ref=e210]:
+    - generic [ref=e211]:
+      - paragraph [ref=e212]: MOSSAIC
+      - paragraph [ref=e213]: Working towards resilient, inclusive, and sustainable mountain futures.
+      - paragraph [ref=e215]: © 2026 MOSSAIC Foundation. All rights reserved.

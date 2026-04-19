@@ -1,0 +1,23 @@
+[     942ms] [ERROR] ReferenceError: React is not defined
+    at Md (http://localhost:4173/assets/index-DTv8xii3.js:32:61803)
+    at go (http://localhost:4173/assets/index-DTv8xii3.js:30:16959)
+    at Gs (http://localhost:4173/assets/index-DTv8xii3.js:32:43694)
+    at Qs (http://localhost:4173/assets/index-DTv8xii3.js:32:39499)
+    at sd (http://localhost:4173/assets/index-DTv8xii3.js:32:39430)
+    at br (http://localhost:4173/assets/index-DTv8xii3.js:32:39289)
+    at ji (http://localhost:4173/assets/index-DTv8xii3.js:32:35710)
+    at Vs (http://localhost:4173/assets/index-DTv8xii3.js:32:34666)
+    at S (http://localhost:4173/assets/index-DTv8xii3.js:17:1562)
+    at MessagePort.an (http://localhost:4173/assets/index-DTv8xii3.js:17:1930) @ http://localhost:4173/assets/index-DTv8xii3.js:31
+[     959ms] ReferenceError: React is not defined
+    at Md (http://localhost:4173/assets/index-DTv8xii3.js:32:61803)
+    at go (http://localhost:4173/assets/index-DTv8xii3.js:30:16959)
+    at Gs (http://localhost:4173/assets/index-DTv8xii3.js:32:43694)
+    at Qs (http://localhost:4173/assets/index-DTv8xii3.js:32:39499)
+    at sd (http://localhost:4173/assets/index-DTv8xii3.js:32:39430)
+    at br (http://localhost:4173/assets/index-DTv8xii3.js:32:39289)
+    at ji (http://localhost:4173/assets/index-DTv8xii3.js:32:35710)
+    at Vs (http://localhost:4173/assets/index-DTv8xii3.js:32:34666)
+    at S (http://localhost:4173/assets/index-DTv8xii3.js:17:1562)
+    at MessagePort.an (http://localhost:4173/assets/index-DTv8xii3.js:17:1930)
+[     950ms] [ERROR] Failed to load resource: the server responded with a status of 404 (Not Found) @ http://localhost:4173/favicon.ico:0
